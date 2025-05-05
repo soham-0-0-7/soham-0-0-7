@@ -64,4 +64,5 @@
 
 ---
 
-![Snake animation](https://github.com/soham-0-0-7/soham-0-0-7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
