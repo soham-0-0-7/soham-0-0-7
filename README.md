@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working more on **Web Development Projects**
 - 🌱 Constantly learning and improving my **backend & frontend skills**
-- 💬 Ask me about **JavaScript, React, Node.js, Prisma, PostgreSQL, MongoDB, Redux, Tailwind, C++**
+- 💬 Ask me about **JavaScript, React, Node.js, Prisma, PostgreSQL, MongoDB, Redux, Tailwind, Java, C++**
 - 🏆 Interested in: **Cricket** | 😴 Hobby: **Sleeping** (underrated productivity hack)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soham-gandhi-57b856266/)
 
@@ -15,21 +15,21 @@
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 ---
 
