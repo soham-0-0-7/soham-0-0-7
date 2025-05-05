@@ -8,7 +8,7 @@
 - 🔭 I’m currently working more on **Web Development Projects**
 - 🌱 Constantly learning and improving my **backend & frontend skills**
 - 💬 Ask me about **JavaScript, React, Node.js, Prisma, PostgreSQL, MongoDB, Redux, Tailwind, C++**
-- ⚽ Interested in: **Cricket** | 😴 Hobby: **Sleeping** (underrated productivity hack)
+- 🏆 Interested in: **Cricket** | 😴 Hobby: **Sleeping** (underrated productivity hack)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soham-gandhi-57b856266/)
 
 ---
