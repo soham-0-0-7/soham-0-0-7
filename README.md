@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Soham Gandhi 👋</h1>
-<h3 align="center">Full Stack Web Developer | Cricket Enthusiast | Rational Explorer </h3>
+<h3 align="center">Full Stack Web Developer | Exploring Devops | Cricket Enthusiast | Rational Explorer </h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working more on Web Development Projects
-- 🌱 Constantly learning and improving my backend & frontend skills
-- 💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Prisma, PostgreSQL, MongoDB, Redux, Tailwind, Java, C++
-- 🏆 Interested in: Cricket | 😴 Hobby: Sleeping (underrated productivity hack)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soham-gandhi-57b856266/)
+- 🔭 I’m currently working more on Web Development Projects  
+- 🌱 Constantly learning and improving my backend & frontend skills  
+- 🏆 Interested in: Cricket | 😴 Hobby: Sleeping (underrated productivity hack)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soham-gandhi-57b856266/)  
 
 ---
 
@@ -25,6 +24,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
